@@ -38,8 +38,7 @@
     <br>
 
     Among other technologies like
-    <img alt="Static Badge"
-      src="https://img.shields.io/badge/C%23-purple?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
     <img alt="Static Badge"
       src="https://img.shields.io/badge/ASP-blue?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
     <img alt="Static Badge"
@@ -48,8 +47,7 @@
 
     Contactc Me :
 
-    <img alt="Static Badge"
-      src="https://img.shields.io/badge/LinkedIn-blue?style=plastic%2C%20for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjensy-figueroa-duran-0a069a8b%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic%2C%20for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjensy-figueroa-duran-0a069a8b%2F">
 
   </section>
 </div>
