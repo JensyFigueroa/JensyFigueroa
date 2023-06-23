@@ -24,7 +24,7 @@
 
         </div>
 
-        https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+       https://img.shields.io/badge/:badgeContent
 
         
         Bootstrap
