@@ -23,6 +23,9 @@
             <span>HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="" width="40" height="40"></span>
 
         </div>
+
+        <img alt="W3C Validation" src="https://img.shields.io/w3c-validation/:parser">
+
         
         Bootstrap
         Material UI
