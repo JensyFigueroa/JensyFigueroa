@@ -50,7 +50,6 @@ Contactc Me :
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic%2C%20for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjensy-figueroa-duran-0a069a8b%2F">
 </a>
 <br>
-
 <a href="jensy1418@hotmail.com" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=plastic%2C%20for-the-badge&logo=gmail&logoColor=red">
 </a>
