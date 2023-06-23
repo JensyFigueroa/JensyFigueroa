@@ -25,7 +25,7 @@
 
 <div>
     <a href="#">
-        <img src="https://img.shields.io/twitter/follow/Javascript?color=yellow&label=Jensy&logo=javacript&style=for-the-badge" alt="">
+        <img src="https://img.shields.io/twitter/follow/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
     </a>
 
 </div>
