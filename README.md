@@ -24,8 +24,7 @@
 
         </div>
 
-       ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
-
+   https://img.shields.io/badge/test-ok-green.svg
         
         Bootstrap
         Material UI
