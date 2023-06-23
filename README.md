@@ -32,6 +32,7 @@
 
 </div>
 
+ ![javascript](https://img.shields.io/badge/javascript/status/Javascript?color=yellow&logo=javacript&style=for-the-badgeg) 
  ![javascript](https://img.shields.io/badge/Javascript-yellow.svg)
 
  
