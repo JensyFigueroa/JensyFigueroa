@@ -14,12 +14,12 @@
         always offering quality websites. This constant update allows me to be aware of the latest trends and tools in
         the field of web development.
     </section>
-    ---
+    <hr>
     <section class="objective">
         My goal is to combine my creativity, ideas and problem solving skills, in order to offer innovative solutions
         adapted to the needs of users and companies.
     </section>
-    ---
+    <hr>
     <section class="technologies">
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
         <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge%2C%20plastic&logo=css3">
