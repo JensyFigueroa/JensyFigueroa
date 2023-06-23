@@ -8,7 +8,7 @@
         love facing challenges and finding solutions through code. It is gratifying to be able to materialize ideas and
         solutions using different programming languages, frameworks and technological tools.
     </section>
-    <hr>
+    <hr> 
     <section class="whatIDo">
         Currently I am dedicated to carrying out projects that keep me updated with new technologies, with the aim of
         always offering quality websites. This constant update allows me to be aware of the latest trends and tools in
