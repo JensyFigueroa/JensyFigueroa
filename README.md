@@ -22,17 +22,17 @@
             <div id="html" style="display: flex; justify-content: center; align-items: center;">
             <span>HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="" width="40" height="40"></span>
 
-        </div>
 
-<img src="https://img.shields.io/javascript/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
 <div>
     <a href="#">
-        <img src="https://img.shields.io/javascript/status/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
+        <img src="https://img.shields.io/twitter/follow/Javascript?color=yellow&label=Jensy&logo=javacript&style=for-the-badge" alt="">
     </a>
 
 </div>
 
- ![javascript](https://img.shields.io/badge/javascript/status/Javascript?color=yellow&logo=javacript&style=for-the-badgeg) 
+</div>
+
+
  ![javascript](https://img.shields.io/badge/Javascript-yellow.svg)
 
  
