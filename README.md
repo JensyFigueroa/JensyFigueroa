@@ -21,24 +21,14 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
         <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge%2C%20plastic&logo=css3">
         <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge%2C%20plastic&logo=bootstrap&logoColor=purple&labelColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple?style=plastic%2C%20for-the-badge&logo=bootstrap&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-blue?style=plastic%2C%20for-the-badge&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/React-33FFFC?style=for-the-badge%2C%20plastic&logo=react&logoColor=white">
-
-
-
-
-
-        Bootstrap
-        Material UI
-        React
-        Redux
-        Javascript
-        Node.js
-        Express.js
-        Sequelize
-        PostgreSQL
-        MySQL
-        GIT
+        <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-green?style=plastic%2C%20for-the-badge&logo=node.js&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=plastic%2C%20for-the-badge&logo=express&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-blue?style=plastic%2C%20for-the-badge&logo=sequelize&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-blue?style=plastic%2C%20for-the-badge&logo=postgreSQL&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-0879B2?style=plastic%2C%20for-the-badge&logo=mySQL&logoColor=white">
     </section>
 </div>
 
