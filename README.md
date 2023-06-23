@@ -19,12 +19,8 @@
         adapted to the needs of users and companies.
     </section>
     <section class="technologies">
-       <ul>
-            <li>![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript)
-            </li>
-            <li>![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript)
-            </li>
-        </ul>
+       <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript">
+
 
 </section>
 </div>
