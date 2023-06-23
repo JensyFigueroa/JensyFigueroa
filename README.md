@@ -46,7 +46,6 @@ Among other technologies like
 
 Contactc Me :
 <br>
-
 <a href="https://www.linkedin.com/in/jensy-figueroa-duran-0a069a8b/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic%2C%20for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjensy-figueroa-duran-0a069a8b%2F">
 </a>
@@ -56,6 +55,7 @@ Contactc Me :
 jensy1418@gmail.com
 <br>
 <a href="https://portafolio-three-kappa.vercel.app/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Portafolio-white?style=plastic%2C%20for-the-badge&logo=pfsense&logoColor=blue&link=%23">
 </a>
 
 
