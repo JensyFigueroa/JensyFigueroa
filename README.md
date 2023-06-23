@@ -19,7 +19,7 @@
         adapted to the needs of users and companies.
     </section>
     <section class="technologies">
-        <div id="html">
+            <div id="html" style="display: flex; justify-content: center; align-items: center;">
             <span>HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="" width="40" height="40"></span>
 
         </div>
