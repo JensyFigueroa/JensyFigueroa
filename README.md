@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Jensy Figueroa
 <div class="container">
     <h1>Hi there 👋, I'm Jensy Figueroa</h1>
     <section class="aboutMe">
@@ -18,11 +17,11 @@
         My goal is to combine my creativity, ideas and problem solving skills, in order to offer innovative solutions
         adapted to the needs of users and companies.
     </section>
-<section id="technologies">
-        <img alt="Static Badge"
-            src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
+    <section clas`="technologies">
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
 
-        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?style=for-the-badge%2C%20plastic&logo=css3">
+        <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge%2C%20plastic&logo=css3">
+
 
         <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript">
 
@@ -41,14 +40,7 @@
         MySQL
         GIT
     </section>
-</div>   
-
-
-
-
-
-
-
+</div>
 
 
 
