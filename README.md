@@ -33,11 +33,10 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-blue?style=plastic%2C%20for-the-badge&logo=postgreSQL&logoColor=white">
         <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-0879B2?style=plastic%2C%20for-the-badge&logo=mySQL&logoColor=white">
     </section>
-
-    <section>
-    <br>
-
-    Among other technologies like
+    
+<section>
+<br>
+Among other technologies like
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
     <img alt="Static Badge"
       src="https://img.shields.io/badge/ASP-blue?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
