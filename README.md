@@ -24,6 +24,7 @@
 
         </div>
 
+<img src="https://img.shields.io/javascript/Javascript?color=yello w&logo=javacript&style=for-the-badge" alt="">
  ![Github All Realeses](https://img.shields.io/badge/test-ok-green.svg)
 
  ![javascript](https://img.shields.io/badge/Javascript-yellow.svg)
