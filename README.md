@@ -37,9 +37,13 @@
 
 
 
-Entre otras tecnologias como C#, ASP.NET y SQL sever
+Among other technologies like
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/ASP-blue?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQL%20server-white?style=plastic%2C%20for-the-badge&logo=microsoftsqlserver&logoColor=red">
 
-Puedes contactarme :
+
+Contactc Me :
 
 
 
