@@ -18,21 +18,14 @@
         My goal is to combine my creativity, ideas and problem solving skills, in order to offer innovative solutions
         adapted to the needs of users and companies.
     </section>
-    <section id="technologies" style="display: flex;">
-   
-                <img alt="Static Badge"
-                    src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
+<section id="technologies">
+        <img alt="Static Badge"
+            src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
 
-                <img alt="Static Badge"
-                    src="https://img.shields.io/badge/HTML-blue?style=for-the-badge%2C%20plastic&logo=css3">
-    
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?style=for-the-badge%2C%20plastic&logo=css3">
 
-        <div class="back">
-            <div class="javascript">
-                <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript">
-            </div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript">
 
-        </div>
 
 
 
@@ -48,8 +41,7 @@
         MySQL
         GIT
     </section>
-</div>
-
+</div>   
 
 
 
