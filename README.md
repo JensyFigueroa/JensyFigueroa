@@ -22,13 +22,8 @@
             <div id="html" style="display: flex; justify-content: center; align-items: center;">
             <span>HTML <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="" width="40" height="40"></span>
 
+![Static Badge](https://img.shields.io/badge/Javascript?style=plastic&logo=javascript&logoColor=yellow)
 
-<div>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
-    </a>
-
-</div>
 
 </div>
 
