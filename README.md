@@ -21,6 +21,9 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
         <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge%2C%20plastic&logo=css3">
         <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge%2C%20plastic&logo=bootstrap&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/React-33FFFC?style=for-the-badge%2C%20plastic&logo=react&logoColor=white">
+
 
 
 
