@@ -24,7 +24,7 @@
 
         </div>
 
-        <img alt="W3C Validation" src="https://img.shields.io/w3c-validation/:parser">
+        https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 
         
         Bootstrap
