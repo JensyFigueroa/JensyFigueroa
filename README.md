@@ -25,7 +25,7 @@
 
 <div>
     <a href="#">
-        <img src="https://img.shields.io/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
+        <img src="https://img.shields.io/badge/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
     </a>
 
 </div>
