@@ -25,6 +25,11 @@
         </div>
 
  ![Github All Realeses](https://img.shields.io/badge/test-ok-green.svg)
+
+ ![Javascript Badge](https://img.shields.io/badge/javascript-yellow.svg)
+
+ 
+
         
         Bootstrap
         Material UI
