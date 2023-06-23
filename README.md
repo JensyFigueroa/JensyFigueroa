@@ -24,11 +24,13 @@
 
         </div>
 
-<img src="https://img.shields.io/javascript/Javascript?color=yello w&logo=javacript&style=for-the-badge" alt="">
- <a href="#">
-            <img src="https://img.shields.io/javascript/Javascript?color=yello w&logo=javacript&style=for-the-badge" alt="">
-        </a>
- ![Github All Realeses](https://img.shields.io/badge/test-ok-green.svg)
+<img src="https://img.shields.io/javascript/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
+<div>
+    <a href="#">
+        <img src="https://img.shields.io/javascript/status/Javascript?color=yellow&logo=javacript&style=for-the-badge" alt="">
+    </a>
+
+</div>
 
  ![javascript](https://img.shields.io/badge/Javascript-yellow.svg)
 
