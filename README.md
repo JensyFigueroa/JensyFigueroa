@@ -21,12 +21,14 @@
     <section id="technologies" style="display: flex;">
         <div id="front">
             <div class="html">
-                <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
-    
-                
+                <img alt="Static Badge"
+                    src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
+
+
             </div>
             <div class="css">
-                <img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?style=for-the-badge%2C%20plastic&logo=css3">
+                <img alt="Static Badge"
+                    src="https://img.shields.io/badge/HTML-blue?style=for-the-badge%2C%20plastic&logo=css3">
             </div>
         </div>
 
@@ -38,15 +40,7 @@
         </div>
 
 
-</section>
-</div>
 
-
-
-
- 
-
-        
         Bootstrap
         Material UI
         React
@@ -60,6 +54,10 @@
         GIT
     </section>
 </div>
+
+
+
+
 
 
 
