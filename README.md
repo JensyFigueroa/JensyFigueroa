@@ -35,7 +35,7 @@
     </section>
 </div>
 
-
+<br>
 
 Among other technologies like
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=plastic%2C%20for-the-badge&logo=.net&logoColor=white">
