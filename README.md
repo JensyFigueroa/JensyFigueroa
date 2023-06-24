@@ -45,10 +45,10 @@ Among other technologies like
 <br>
 <br>
 
-☎️ Contact Me:
+☎️ Contact Me 📧📨
 <br>
 <br>
-<a href="https://www.linkedin.com/in/jensy-figueroa-duran-0a069a8b/" target="_blank" style="margin: 10;">
+<a href="https://www.linkedin.com/in/jensy-figueroa-duran-0a069a8b/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic%2C%20for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjensy-figueroa-duran-0a069a8b%2F">
 </a>
 <br>
