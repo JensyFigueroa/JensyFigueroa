@@ -52,11 +52,8 @@ Contactc Me :
 <br>
 <a href="mailto:jensy1418@gmail.com" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/jensy1418%40gmail.com-white?style=plastic%2C%20for-the-badge&logo=gmail&logoColor=red&link=mailto%3Ajensy1418%40gmail.com">
-
 <br>
 </a>
-
-
 <a href="https://portafolio-three-kappa.vercel.app/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Portafolio-white?style=plastic%2C%20for-the-badge&logo=pfsense&logoColor=blue&link=%23">
 </a>
