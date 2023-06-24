@@ -44,7 +44,8 @@ Among other technologies like
       src="https://img.shields.io/badge/SQL%20server-white?style=plastic%2C%20for-the-badge&logo=microsoftsqlserver&logoColor=red">
 
 
-☎️ Contactc Me:
+☎️ Contact Me:
+<br>
 <br>
 <a href="https://www.linkedin.com/in/jensy-figueroa-duran-0a069a8b/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=plastic%2C%20for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjensy-figueroa-duran-0a069a8b%2F">
