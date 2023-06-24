@@ -51,8 +51,8 @@ Contactc Me :
 </a>
 <br>
 <a href="mailto:jensy1418@gmail.com" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-white?style=plastic%2C%20for-the-badge&logo=gmail&logoColor=red&link=%23"> 
-    jensy1418@gmail.com
+    <img alt="Static Badge" src="https://img.shields.io/badge/jensy1418%40gmail.com-white?style=plastic%2C%20for-the-badge&logo=gmail&logoColor=red&link=mailto%3Ajensy1418%40gmail.com">
+
 <br>
 </a>
 
