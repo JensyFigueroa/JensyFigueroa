@@ -21,6 +21,7 @@
     </section>
     <hr>
     <section class="technologies">
+        <h4>Used technology:</h4>
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge%2C%20plastic&logo=html5">
         <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge%2C%20plastic&logo=css3">
         <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-yellow?logo=javascript">
